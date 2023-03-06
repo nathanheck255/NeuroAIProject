@@ -22,3 +22,4 @@ We will be entering the Algonauts competition. This is our repository for creati
 - [What's a Voxel and What Can It Tell Us? (article)](https://blogs.scientificamerican.com/observations/whats-a-voxel-and-what-can-it-tell-us-a-primer-on-fmri/)
 - [The Statistical Analysis of fMRI Data (paper)](https://projecteuclid.org/journalArticle/Download?urlId=10.1214%2F09-STS282)
 - [Encoding and Decoding in fMRI (paper)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3037423/pdf/nihms-234473.pdf)
+- [Brain Decoding Using fMRI Images for Multiple Subjects Using Deep Learning (paper)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8904097/pdf/CMMM2022-1124927.pdf)
