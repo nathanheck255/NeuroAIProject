@@ -30,6 +30,7 @@ We will be entering the Algonauts competition. This is our repository for creati
 - [Encoding and Decoding in fMRI (paper)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3037423/pdf/nihms-234473.pdf)
 - [Brain Decoding Using fMRI Images for Multiple Subjects Using Deep Learning (paper)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8904097/pdf/CMMM2022-1124927.pdf)
 - [Neural Decoding of Visual Imagery via Hierarchical Variational Autoencoders (paper)](https://openreview.net/pdf?id=TM9jOSaIzN)
+- [High-resolution image reconstruction with latent diffusion models from human brain activity (paper)](https://sites.google.com/view/stablediffusion-with-brain/)
 
 ### Submodules for our model
 
