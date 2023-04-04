@@ -4,9 +4,7 @@ We will be entering the Algonauts competition. This is our repository for creati
 
 ## TO-DO
 
-- [ ] Set up repo in hypergator
-- [ ] Set up dataset in hypergator
-- [ ] Decide on model architectures
+- [X] Decide on model architectures
 - [ ] Train model(s)
 - [ ] Write final report
 - [ ] Submit results
