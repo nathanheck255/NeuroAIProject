@@ -5,9 +5,9 @@ We will be entering the Algonauts competition. This is our repository for creati
 ## TO-DO
 
 - [X] Decide on model architectures
-- [ ] Train model(s)
-- [ ] Write final report
-- [ ] Submit results
+- [X] Train model(s)
+- [X] Write final report
+- [X] Submit results
 
 ## References
 
