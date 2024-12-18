@@ -1,6 +1,6 @@
-# NeuroAI Project
+# AI Model of the Visual Cortex
 
-We will be entering the Algonauts competition. This is our repository for creating a model to learn the brain activity that occurs when people are presented with images of natural scenes.
+We will be entering the 2023 Algonauts competition. This is our repository for creating a model to learn the brain activity that occurs when people are presented with images of natural scenes.
 
 ## TO-DO
 
