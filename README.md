@@ -1,6 +1,6 @@
 # AI Model of the Visual Cortex
 
-We will be entering the 2023 Algonauts competition. This is our repository for creating a model to learn the brain activity that occurs when people are presented with images of natural scenes.
+We will be entering the 2023 Algonauts competition. This is our repository for creating a model to learn the brain activity that occurs when people are presented with images of natural scenes. For more details, please see our paper describing our implementation strategy and final results: [How the Human Brain Understands Natural Scenes](https://github.com/nathanheck255/VisualCortexAI/blob/main/NeuroAI_Final_Paper.pdf)
 
 ## TO-DO
 
